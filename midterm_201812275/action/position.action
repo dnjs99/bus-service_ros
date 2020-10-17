@@ -1,0 +1,8 @@
+#goal difinition
+int8 dst
+---
+#result definition
+bool arrival
+---
+#feedback
+int8 pos

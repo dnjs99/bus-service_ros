@@ -1,0 +1,5 @@
+<launch>
+    <node name="information" pkg = "midterm_201812275" type = "information" output = "screen" />
+    <node name = "passenger_perception" pkg = "midterm_201812275" type = "judgement_stop" output = "screen" />
+    <node name = "motor" pkg = "midterm_201812275" type = "motor" output = "screen" />
+</launch>
